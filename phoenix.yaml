@@ -1,0 +1,15 @@
+# Ultralytics YOLO 🚀, AGPL-3.0 license
+
+path: D:/ultralytics-main/datasets # dataset root dir
+train: images/train # train images
+val: images/val # val images
+
+# Classes
+names:
+  0: floc
+  1: bottle damaged
+  2: bottle dirty
+  3: package damaged
+  4: package dirty
+
+#nc: 5 # number of classes
